@@ -24,6 +24,13 @@ Core API:
 - `size()`
 - `get_stats()`
 
+## Features
+- LRU eviction
+- TTL expiration
+- Thread-safe access
+- Benchmarking (cached vs non-cached)
+- Concurrency simulation
+
 ## Why LRU Was Chosen
 
 LRU is a strong default for bounded caches because recently accessed items are more likely to be reused soon (temporal locality).  
