@@ -62,6 +62,7 @@ This favors correctness and simplicity over maximum parallel throughput, which i
   - expirations
 
 ## Benchmark Results
+<img width="936" height="340" alt="image" src="https://github.com/user-attachments/assets/0dfbdf41-15ff-4674-8dac-6b4125edcfc7" />
 
 Sample run (local):
 
